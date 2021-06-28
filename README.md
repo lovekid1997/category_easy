@@ -6,5 +6,8 @@ A new Flutter Category package project.
     <img rel="ugc" src="https://codecov.io/gh/lovekid1997/category_easy/branch/develop/graph/badge.svgtoken=K9JN2G4SN3"/>
 </a>
 
+<a href="https://github.com/lovekid1997/category_easy/blob/main/LICENSE">
+    <img rel="ugc" src="https://img.shields.io/github/license/lovekid1997/category_easy"/>
+</a>
+
 ## Getting Started
-<img  src="https://img.shields.io/pub/v/liquid_swipe.svg?style=for-the-badge">
