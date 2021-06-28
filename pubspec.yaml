@@ -1,12 +1,11 @@
 name: category_easy
 description: A new Flutter Category package project.
-version: 0.0.2
+version: 0.0.4
 author: VingDev
 homepage: https://github.com/lovekid1997/category_easy/
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
